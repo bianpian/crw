@@ -4,8 +4,8 @@ if (!defined('IN_PHPMPS'))
 {
     die('Access Denied');
 }
-
-error_reporting(E_ERROR | E_WARNING | E_PARSE);
+error_reporting(E_ALL & ~E_NOTICE);
+// error_reporting(E_ERROR | E_WARNING | E_PARSE);
 
 define('PHPMPS_ROOT', str_replace("\\", '/', substr(dirname(__FILE__), 0, -7)));
 $PHP_SELF = isset($_SERVER['PHP_SELF']) ? $_SERVER['PHP_SELF'] : $_SERVER['SCRIPT_NAME'];
