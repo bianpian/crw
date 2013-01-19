@@ -1,20 +1,5 @@
 <?php
 $data = array (
-  1 => 
-  array (
-    'catid' => '1',
-    'catname' => 'sdfsd',
-    'caturl' => 'category.php?id=1',
-    'children' => 
-    array (
-      2 => 
-      array (
-        'id' => '2',
-        'name' => 'werwe',
-        'url' => 'category.php?id=2',
-      ),
-    ),
-  ),
   3 => 
   array (
     'catid' => '3',

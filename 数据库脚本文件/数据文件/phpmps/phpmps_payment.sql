@@ -1,0 +1,1 @@
+INSERT INTO `phpmps_payment` VALUES (1, 'alipay', '支付宝', 'http://img.alipay.com/img/logo/logo_126x37.gif', 'http://www.alipay.com/cooperate/gateway.do', '', '202020202020', 'abcde', 1, 'phpmps@qq.com', 1);

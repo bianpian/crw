@@ -1,0 +1,1 @@
+INSERT INTO `uc_applications` VALUES (1, 'OTHER', 'PHPMPS', 'http://localhost/phpmps', '56404ToXP1GLJEWa+2OmUWTRPhP2UhtMwfbq7nSITE3rTIU', '', '', 'uc.php', '', '', 1, 1, 'a:1:{s:7:\"apppath\";s:0:\"\";}', '<?xml version=\"1.0\" encoding=\"ISO-8859-1\"?>\r\n<root>\r\n	<item id=\"template\"><![CDATA[]]></item>\r\n</root>', '');
