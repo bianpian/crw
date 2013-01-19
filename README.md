@@ -1,6 +1,8 @@
 crw(convenience rent web)
 ===
 
+初始安装要先把数据库创建和把相关的数据导入
+
 便租网
 
 
