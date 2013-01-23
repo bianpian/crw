@@ -5,6 +5,7 @@ crw(convenience rent web)
 
 便租网
 
+这个尚未确定的，目前暂不强制要求按照目录架构来放代码
 
 CRW框架目录架构
 config -> 放置配置文件
